@@ -10,17 +10,17 @@ def get_user_list(config, key):
 class Config(object):
     LOGGER = True
 
-    API_ID = ""
-    API_HASH = ""
-    TOKEN = ""
-    OWNER_ID = ""
-    OWNER_USERNAME = ""
-    SUPPORT_CHAT = ""
-    JOIN_LOGGER = ()
-    EVENT_LOGS = ()
+    API_ID = "13678305"
+    API_HASH = "a5d9be6f810f31e5c56bad6eebbd7ba8"
+    TOKEN = "5685881433:AAHHGWUNCjGdu71ZWkiHt7pkAMEN7moN5Vc"
+    OWNER_ID = "5496035221"
+    OWNER_USERNAME = "bluesmoke07"
+    SUPPORT_CHAT = "tpxsupport404"
+    JOIN_LOGGER = ("-1001585369050")
+    EVENT_LOGS = ("-1001585369050")
 
     SQLALCHEMY_DATABASE_URI = ""
-    MONGO_DB_URI = ""
+    MONGO_DB_URI = "mongodb+srv://sasuke:sas@cluster0.rm3gpq8.mongodb.net/?retryWrites=true&w=majority"
     LOAD = []
     NO_LOAD = ["rss"]
     WEBHOOK = False
@@ -50,18 +50,18 @@ class Config(object):
         "CAACAgUAAxkBAAEDafNhq5Z0DegqVzauwSighMw5cPWp8QACVgQAAuUG0FRXfCEuBziNzCIE"
     )
     ALLOW_EXCL = True
-    CASH_API_KEY = ""
-    TIME_API_KEY = ""
+    CASH_API_KEY = "NV34OEUX0YAFLUB6"
+    TIME_API_KEY = "RTHI3DLW56HY"
     BL_CHATS = []
     SPAMMERS = None
     ALLOW_CHATS = True
-    START_IMG = ""
+    START_IMG = "https://telegra.ph/file/5488f5f7cbef38d2e81f7.jpg"
     HEROKU_API_KEY = None
     HEROKU_APP_NAME = None
     TEMP_DOWNLOAD_DIRECTORY = "./"
     ARQ_API_KEY = "LJMETG-DPHBCX-DGHJCD-TMFIGB-ARQ"
     ARQ_API_URL = "https://arq.hamker.in"
-    ALLOW_EXCL = None
+    ALLOW_EXCL = True
     BL_CHATS = []  # List of groups that you want blacklisted.
     SPAMMERS = None
 
