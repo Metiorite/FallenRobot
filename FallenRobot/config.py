@@ -10,11 +10,10 @@ def get_user_list(config, key):
 class Config(object):
     LOGGER = True
 
-    API_ID = "13678305"
-    API_HASH = "a5d9be6f810f31e5c56bad6eebbd7ba8"
+    API_ID = "6435225"
+    API_HASH = "4e984ea35f854762dcde906dce426c2d"
     TOKEN = "5959631394:AAGZAnzjaDJt0xWnwei-9rXRIuLQL5PHhwg"
-    OWNER_ID = "5496035221"
-    OWNER_USERNAME = "bluesmoke07"
+    OWNER_ID = "1036568809"
     SUPPORT_CHAT = "tpxsupport404"
     JOIN_LOGGER = ("-1001585369050")
     EVENT_LOGS = ("-1001585369050")
