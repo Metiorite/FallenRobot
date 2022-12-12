@@ -12,7 +12,7 @@ class Config(object):
 
     API_ID = "13678305"
     API_HASH = "a5d9be6f810f31e5c56bad6eebbd7ba8"
-    TOKEN = "5685881433:AAHHGWUNCjGdu71ZWkiHt7pkAMEN7moN5Vc"
+    TOKEN = "5959631394:AAGZAnzjaDJt0xWnwei-9rXRIuLQL5PHhwg"
     OWNER_ID = "5496035221"
     OWNER_USERNAME = "bluesmoke07"
     SUPPORT_CHAT = "tpxsupport404"
