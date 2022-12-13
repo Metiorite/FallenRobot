@@ -15,11 +15,11 @@ class Config(object):
     TOKEN = "5744245230:AAFuipcdKfCHL5xyo0agw1BDO1JCdC2WQEQ"
     OWNER_ID = "1442684727"
     SUPPORT_CHAT = "tpxsupport404"
-    JOIN_LOGGER = ("-1001585369050")
-    EVENT_LOGS = ("-1001585369050")
+    JOIN_LOGGER = ("-1001878165791")
+    EVENT_LOGS = ("-1001878165791")
     OWNER_USERNAME = "Ath2023"
 
-    SQLALCHEMY_DATABASE_URI = "postgres://qgkukhqc:LhgZ-tfaJFFJjoD8lo5usFNZdvz-aSx0@heffalump.db.elephantsql.com/qgkukhqc"
+    SQLALCHEMY_DATABASE_URI = "postgres://zmrvysog:PKi_0-BPUxZHNGfsVUltdYpJZxVnYBlD@heffalump.db.elephantsql.com/zmrvysog"
     MONGO_DB_URI = "mongodb+srv://sasuke:sas@cluster0.rm3gpq8.mongodb.net/?retryWrites=true&w=majority"
     LOAD = []
     NO_LOAD = ["rss"]
