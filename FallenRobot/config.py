@@ -12,12 +12,12 @@ class Config(object):
 
     API_ID = "6435225"
     API_HASH = "4e984ea35f854762dcde906dce426c2d"
-    TOKEN = "5959631394:AAGZAnzjaDJt0xWnwei-9rXRIuLQL5PHhwg"
-    OWNER_ID = "1036568809"
+    TOKEN = "5744245230:AAFuipcdKfCHL5xyo0agw1BDO1JCdC2WQEQ"
+    OWNER_ID = "1442684727"
     SUPPORT_CHAT = "tpxsupport404"
     JOIN_LOGGER = ("-1001585369050")
     EVENT_LOGS = ("-1001585369050")
-    OWNER_USERNAME = "wodlike"
+    OWNER_USERNAME = "Ath2023"
 
     SQLALCHEMY_DATABASE_URI = "postgres://qgkukhqc:LhgZ-tfaJFFJjoD8lo5usFNZdvz-aSx0@heffalump.db.elephantsql.com/qgkukhqc"
     MONGO_DB_URI = "mongodb+srv://sasuke:sas@cluster0.rm3gpq8.mongodb.net/?retryWrites=true&w=majority"
