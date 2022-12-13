@@ -17,8 +17,9 @@ class Config(object):
     SUPPORT_CHAT = "tpxsupport404"
     JOIN_LOGGER = ("-1001585369050")
     EVENT_LOGS = ("-1001585369050")
+    OWNER_USERNAME = "wodlike"
 
-    SQLALCHEMY_DATABASE_URI = ""
+    SQLALCHEMY_DATABASE_URI = "postgres://qgkukhqc:LhgZ-tfaJFFJjoD8lo5usFNZdvz-aSx0@heffalump.db.elephantsql.com/qgkukhqc"
     MONGO_DB_URI = "mongodb+srv://sasuke:sas@cluster0.rm3gpq8.mongodb.net/?retryWrites=true&w=majority"
     LOAD = []
     NO_LOAD = ["rss"]
