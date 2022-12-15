@@ -21,7 +21,7 @@ class Config(object):
 
     SQLALCHEMY_DATABASE_URI = "postgres://zmrvysog:PKi_0-BPUxZHNGfsVUltdYpJZxVnYBlD@heffalump.db.elephantsql.com/zmrvysog"
     MONGO_DB_URI = "mongodb+srv://sasuke:sas@cluster0.rm3gpq8.mongodb.net/?retryWrites=true&w=majority"
-    LOAD = []
+    LOAD = ["cleaner","connection","math" ]
     NO_LOAD = ["rss"]
     WEBHOOK = False
     INFOPIC = True
